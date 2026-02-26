@@ -17,7 +17,7 @@ Emerald Clean Pros is a locally-owned cleaning business serving the greater Seat
 
 ## Live Site
 
-🌐 [https://emerald-clean-seattle.pages.dev](https://emerald-clean-seattle.pages.dev)
+🌐 **https://emerald-clean-seattle.pages.dev**
 
 ## Technologies
 
